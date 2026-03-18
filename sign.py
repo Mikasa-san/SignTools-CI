@@ -988,9 +988,6 @@ class Signer:
                 "get-task-allow",
                 "keychain-access-groups",
                 self.__get_aps_environment_key(),
-                "com.apple.developer.usernotifications.communication",
-                "com.apple.developer.usernotifications.filtering",
-                # instagram aboves
                 "com.apple.developer.icloud-container-development-container-identifiers",
                 "com.apple.developer.icloud-container-environment",
                 "com.apple.developer.icloud-container-identifiers",
